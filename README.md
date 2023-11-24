@@ -4,8 +4,10 @@ Privilege escalation from NT Service to SYSTEM using SeImpersonateToken privileg
 
 Heavily based on https://github.com/Prepouce/CoercedPotato
 
-
 Reflective Loader from https://github.com/stephenfewer/ReflectiveDLLInjection.
+
+
+Create Reflective DLL for Cobalt Strike on https://sokarepo.github.io/redteam/2023/10/11/create-reflective-dll-for-cobaltstrike.html
 
 ## Install
 
